@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/logo.png" alt="GraspAnything Logo" width="600">
+  <img src="image/logo.png" alt="GraspAnything Logo" width="100%">
 </p>
 
 <p align="center">
