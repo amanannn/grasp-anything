@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+.superpowers/
+*.egg-info/
+dist/
+.cache/
+
+# Claude / IDE
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.codex/
+AGENTS.md
+brainstorm/
+*.ipynb_checkpoints/

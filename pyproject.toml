@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "grasp-anything"
+version = "0.1.0"
+description = "Open-vocabulary robot grasping — tell it what to pick up in plain English."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10,<3.11"
+dependencies = [
+    "mujoco>=3.3.0,<3.10",
+    "robosuite",
+    "gradio",
+    "numpy",
+    "opencv-python",
+    "Pillow",
+    "imageio",
+    "torch",
+    "torchvision",
+    "transformers",
+    "huggingface_hub",
+]
