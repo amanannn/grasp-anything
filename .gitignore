@@ -8,9 +8,7 @@ dist/
 
 # Claude / IDE
 .claude/
-CLAUDE.md
 CLAUDE.local.md
 .codex/
-AGENTS.md
 brainstorm/
 *.ipynb_checkpoints/
